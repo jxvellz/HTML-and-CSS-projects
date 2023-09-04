@@ -2,10 +2,11 @@
 <html>
     <head>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hmo1BklmUwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>Porsche!</iframe>
-   </head>
 <nav>
    <a href="Car.html">Home</a>
    <a href="porsche.jpeg">Car Picture</a>
    <a href="Car_drifting.html">Car Video</a>
 </nav>
+
+</head>
 </html>
